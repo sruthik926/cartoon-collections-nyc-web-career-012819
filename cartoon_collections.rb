@@ -4,7 +4,8 @@ dwarfNames.each_with_index do |dwarf, index|
 end
 end
 
-def summon_captain_planet()
+def summon_captain_planet(planeteer_calls)
+  
 
 end
 
