@@ -19,6 +19,6 @@ def find_the_cheese(food)
    x == 'cheddar'
    x == 'gouda'
    x == 'camembert')
-  cheese_types = ["cheddar", "gouda", "camembert"]
 end
+  
 end
