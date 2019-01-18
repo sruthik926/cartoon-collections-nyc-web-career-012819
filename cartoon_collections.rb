@@ -17,8 +17,5 @@ end
 def find_the_cheese(food)
   food.find do |x|
    x == 'cheddar'
-   x == 'gouda'
-   x == 'camembert')
 end
-  
 end
