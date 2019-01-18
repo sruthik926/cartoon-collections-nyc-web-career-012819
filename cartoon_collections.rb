@@ -17,5 +17,6 @@ end
 def find_the_cheese(food)
   food.find do |x|
   # the array below is here to help
+  
   cheese_types = ["cheddar", "gouda", "camembert"]
 end
